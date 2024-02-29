@@ -1,4 +1,4 @@
-## Grupo
+## Grupo Projeto Integrado PUC-MINAS
 - André Aquilau
 - Hugo Somers
 - Renan Olivé
